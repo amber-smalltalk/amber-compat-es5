@@ -1,0 +1,6 @@
+{
+    "paths": {
+        "amber/es5-shim": "es5-shim",
+        "amber/es5-sham": "es5-sham"
+    }
+}

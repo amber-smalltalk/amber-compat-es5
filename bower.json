@@ -1,0 +1,28 @@
+{
+  "name": "amber-compat-es5",
+  "version": "0.1.0",
+  "homepage": "https://github.com/amber-smalltalk/amber-compat-es5",
+  "authors": [
+    "Herbert Vojčík <herby@mailbox.sk>"
+  ],
+  "description": "Enforces loading of es5-shim and es5-sham before loading Amber",
+  "keywords": [
+    "Amber",
+    "Smalltalk",
+    "compatibility",
+    "es5",
+    "shim",
+    "sham"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "es5-shim": "^4.0.5"
+  }
+}
